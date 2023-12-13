@@ -1,4 +1,4 @@
-w# SimpleCalculator
+# SimpleCalculator
 This is a demonstraion repository to show hosting on a github page. The SimpleCalculator sketch was previously developed by William Choi.
 
 p5js editor for this code: https://editor.p5js.org/wcc007/sketches/xfQdE3om9
